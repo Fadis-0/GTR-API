@@ -1,0 +1,25 @@
+{
+  "name": "gtr",
+  "version": "1.0.0",
+  "description": "Guess The Rank project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fadis-0/GTR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fadis-0/GTR/issues"
+  },
+  "homepage": "https://github.com/Fadis-0/GTR#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
